@@ -1,0 +1,17 @@
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\DataAccsess.deps.json
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\DataAccsess.dll
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\DataAccsess.pdb
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\Core.dll
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\Entities.dll
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\Entities.pdb
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\bin\Debug\net7.0\Core.pdb
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.csproj.CopyComplete
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.dll
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\refint\DataAccsess.dll
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\DataAccsess.pdb
+C:\Users\furka\Desktop\c# projelerim\eRoconciliationBackendProject\DataAccsess\obj\Debug\net7.0\ref\DataAccsess.dll
